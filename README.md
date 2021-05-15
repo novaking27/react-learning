@@ -7,7 +7,7 @@
 
 ## Built With
 
-  *Bootstrap
-  *firebase
-  *react
-  *meterialui
+  - Bootstrap
+  - firebase
+  - react
+  - meterialui
